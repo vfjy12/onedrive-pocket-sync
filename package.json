@@ -1,0 +1,6 @@
+{
+  "name": "onedrive-pocket-sync",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "test": "node tests/sync.test.cjs", "check": "node --check main.js" }
+}
