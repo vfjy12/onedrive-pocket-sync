@@ -1,0 +1,9 @@
+{
+  "id": "onedrive-pocket-sync",
+  "name": "OneDrive Pocket Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "OneDrive sync for desktop and mobile, with conflict copies and device-code sign-in.",
+  "author": "OneDrive Pocket Sync contributors",
+  "isDesktopOnly": false
+}
