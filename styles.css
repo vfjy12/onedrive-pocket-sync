@@ -1,0 +1,9 @@
+.pocket-settings .pocket-summary { background: var(--background-secondary); padding: 16px; border-radius: var(--radius-m); margin: 16px 0 24px; }
+.pocket-summary strong { color: var(--text-normal); font-size: var(--font-ui-medium); font-weight: 600; }
+.pocket-summary p { margin: 8px 0 0; color: var(--text-muted); }
+.pocket-settings h3 { margin-top: 24px; }
+.pocket-code { font-size: 28px; font-weight: 600; letter-spacing: 4px; text-align: center; padding: 16px; font-variant-numeric: tabular-nums; user-select: text; }
+.pocket-log { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 60vh; overflow-y: auto; font-size: var(--font-ui-small); }
+.is-mobile .pocket-settings .setting-item-control { flex-wrap: wrap; gap: 8px; }
+.is-mobile .pocket-settings button, .is-mobile .pocket-settings input, .is-mobile .pocket-settings select { min-height: 44px; }
+.is-mobile .pocket-settings input { max-width: 100%; }
